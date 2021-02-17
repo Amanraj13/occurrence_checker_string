@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     string a;  //string to store the text entered by the user
-    char b;   //variable to take the character from user
+    char b;   //variable to take a character from user
     int count{0};
 
     cout<<"\nEnter a text: ";  //asking the user for the text
